@@ -1,4 +1,5 @@
 # FBCUY
+
 cara install   
 apt update 
 apt upgrade 
